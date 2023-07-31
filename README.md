@@ -5,3 +5,4 @@ This project is a script that removes the poopy malware from 3utools. The malwar
 # Usage:
 
 To use this, simply download this, and run the commands to remove that stinky stinky malware!
+Please be sure to not have 3utools installed before doing this.
