@@ -4,5 +4,5 @@ This project is a script that removes the poopy malware from 3utools. The malwar
 
 # Usage:
 
-To use this, simply download this, and run the commands to remove that stinky stinky malware!
+To use this, simply download this, and run the runmefirs.bat first to remove that stinky stinky malware, then run move.bat then your done!
 Please be sure to not have 3utools installed before doing this.
